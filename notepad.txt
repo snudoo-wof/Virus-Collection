@@ -1,0 +1,5 @@
+GUI r
+DELAY 200
+STRINGLN notepad
+DELAY 2000
+STRINGLN hello :)

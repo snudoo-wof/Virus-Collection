@@ -1,0 +1,283 @@
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REM
+GUI r
+GUI r
+REPEAT 10
+REPEAT 10
+REPEAT 10

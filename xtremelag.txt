@@ -1,0 +1,4861 @@
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+REM
+REM
+REM
+GUI r
+GUI l
+GUI g
+GUI h
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+CTRL t
+REPEAT 5
